@@ -4,7 +4,7 @@
 ## moderator
 ### desk moderator
 - kotohodler
-### core-deb moderator
+### core-dev moderator
 - 345chan
 ### japanese moderator
 未定 To be determined
