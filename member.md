@@ -1,4 +1,4 @@
-# Koto運営メンバー一覧（KotoCoreMember）
+# Koto運営メンバー一覧（KotoDevelopers member list）
 
 
 ## moderator
