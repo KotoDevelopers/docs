@@ -1,8 +1,4 @@
-# カテゴリ (Category)
-## サービス名 (Site Name)
-### URL
 
----
 
 # Blocke xplorer
 
