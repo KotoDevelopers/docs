@@ -31,8 +31,6 @@
 ---
 ## 開発技術チーム (core-dev)
 #### メンバー (member) 
-- Mon_chi
-
 - ssmtc
 > MakeWallet運営でもある。 ("MakeWallet" manager.)  
 
@@ -48,3 +46,4 @@
 - Limit 
 > BOT開発担当。 (BOT manager)
 
+- Mon_chi
