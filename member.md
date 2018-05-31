@@ -1,14 +1,14 @@
 # Koto運営メンバー一覧（KotoDevelopers member list）
 
 
-## 調整役moderator
-### desk moderator
+## 調整役 (moderator)
+### Deskモデレータ（desk moderator）
 - kotohodler
-### core-dev moderator
+### Core-Devモデレータ（core-dev moderator）
 - 345chan
-### japanese moderator
+### 日本語chモデレータ（japanese moderator）
 未定 To be determined
-### english moderator(Outside Japan moderator)
+### 英語chモデレータ（english moderator）｛Outside Japan moderator｝
 未定 To be determined
 
 ---
