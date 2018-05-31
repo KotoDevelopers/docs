@@ -1,6 +1,6 @@
 
 
-# Blocke xplorer
+# Block explorer
 
 ## insight
 ### https://insight.kotocoin.info/
