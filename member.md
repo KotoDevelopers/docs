@@ -1,7 +1,7 @@
 # Koto運営メンバー一覧（KotoDevelopers member list）
 
 
-## moderator
+## 調整役moderator
 ### desk moderator
 - kotohodler
 ### core-dev moderator
@@ -12,7 +12,7 @@
 未定 To be determined
 
 ---
-## 2. デスクチーム (Desk)
+## デスクチーム (Desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。 
 "Desk-team" make documents for each language and "Official Documents of Koto project".)  
 ### メンバー (member)
@@ -29,7 +29,7 @@
 > 経理担当
 
 ---
-## 3. 開発技術チーム (core-dev)
+## 開発技術チーム (core-dev)
 #### メンバー (member) 
 - Mon_chi
 
