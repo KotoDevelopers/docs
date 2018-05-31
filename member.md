@@ -7,8 +7,9 @@
 ### core-deb moderator
 - 345chan
 ### japanese moderator
-
+未定 To be determined
 ### english moderator(Outside Japan moderator)
+未定 To be determined
 
 ---
 ## 2. デスクチーム (Desk)
@@ -24,7 +25,7 @@
 - 345chan
 > 暫定core-devのmoderator(core-dev interim moderator)
 
-- monocrafty (@monocrafty#3773)
+- monocrafty
 > 経理担当
 
 ---
@@ -41,9 +42,9 @@
 - téutidos
 > KOTOPOOL.WORK運営でもある。("KOTOPOOL.WORK"  manager.)  
 
-- CryptoJerônimo (@CryptoJerônimo#7951) 
+- CryptoJerônimo 
 > 現役プログラマー。イギリス在住の為日本と時間はほぼ反対(Active programmer. The time is almost opposite to Japan for living in the UK)
 
-- Limit (@Limit#1844) 
+- Limit 
 > BOT開発担当。 (BOT manager)
 
