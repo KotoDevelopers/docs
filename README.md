@@ -1,3 +1,8 @@
-# wiki
 
-https://github.com/KotoDevelopers/documents/blob/master/PeripheralService.md
+公式ドキュメントはこちら
+Official document here
+
+[wiki](https://github.com/KotoDevelopers/docs/wiki)
+
+マイニング・ビルド関連の手順はこちら
+[wiki](https://github.com/KotoDevelopers/docs/wiki)
