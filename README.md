@@ -1,15 +1,13 @@
 
 公式ドキュメントはこちら
 
-Official document here
+Official document is here
 
-[wiki](https://github.com/KotoDevelopers/docs/wiki)
+[Wiki](https://github.com/KotoDevelopers/docs/wiki)
 
 
 マイニング・ビルド関連の手順はこちら
 
-Here are the steps related to mining and build
+There is the steps how to mining and building coind
 
-[wiki](https://github.com/KotoDevelopers/docs/wiki)
-
-test
+[Wiki](https://github.com/KotoDevelopers/docs/wiki)
