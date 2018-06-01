@@ -1,13 +1,21 @@
 
-公式ドキュメントはこちら
+- 概要　/　Overview
 
-Official document is here
+[overview.md](https://github.com/KotoDevelopers/docs/blob/master/overview.md)
 
-[Wiki](https://github.com/KotoDevelopers/docs/wiki)
+- よくある質問　/　FAQs
 
+[FAQs.md](https://github.com/KotoDevelopers/docs/blob/master/FAQs.md)
 
-マイニング・ビルド関連の手順はこちら
+- 周辺サービス　/　PeripheralService
 
-There is the steps how to mining and building coind
+[PeripheralService.md](https://github.com/KotoDevelopers/docs/blob/master/PeripheralService.md)
 
-[Wiki](https://github.com/KotoDevelopers/docs/wiki)
+- ロゴ使用ガイドライン　/　logo-Guidelines
+
+[logo-Guidelines.md](https://github.com/KotoDevelopers/docs/blob/master/logo-Guidelines.md)
+
+- 開発メンバー　/　KotoDevelopers member list
+
+[member](https://github.com/KotoDevelopers/docs/blob/master/member.md)
+
