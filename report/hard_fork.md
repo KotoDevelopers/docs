@@ -41,7 +41,7 @@
 > I am worried that the management team will be overwhelming so that I can not forcefully exploit my position. Therefore, I will set a bounty for service development which is considered necessary for Koto, I will pay compensation for those who released and operated.  
 
 ### なぜKotoという名前を引き継ぐのですか？(Why will you continue to use the name Koto?)
-> 今のKotoには独自性あるサービスやブロックチェーンの活用事例はありません。にもかかわらず、ここまで国内外から多くのユーザを惹きつける理由は名称と、そのロゴにあります。そのためKotoという名称を引き継ぎ、同時にロゴも引き継ぎました。  
+> 今のKotoには独自性あるサービスやブロックチェーンの活用事例はありません。にもかかわらず、ここまで国内外から多くのユーザを惹きつける理由は名称と、そのロゴにもあります。そのためKotoという名称を引き継ぎ、同時にロゴも引き継ぎました。  
 
 > Currently Koto has no case of using unique services or block chains. Nonetheless, the reason for attracting many users from home and abroad is the name and its logo. For that reason I took over the name Koto and also took over the logo at the same time.  
 
