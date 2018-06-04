@@ -21,4 +21,4 @@ member.md
 
 - ロードマップ　/　Roadmap
 
-readmap.md
+roadmap.md
