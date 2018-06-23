@@ -7,6 +7,10 @@ Koto Growth Fund ： 50% of Sustainability Fund
 - 報酬マルチシグの署名者 ： woさんmonocraftyさん345chan kotohodler(2of4で運用)
 Signatories of fund multi-sig: wo-san teutidos-san monocrafty-san 345chan kotohodler(Operated with 2 of 4)
 
+- coution:  
+どちらもハードフォークから半減期までで終了するようプログラムされている  
+Both are programmed to end from hard fork to half-life
+
 # 開発者報酬の仕様 Specification of Sustainability fund
 
 - 開発者報酬の金額のうち、50%を**Koto発展基金**としてプールする  
