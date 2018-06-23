@@ -8,10 +8,11 @@ Here we will put such a report
 
 
 
-- ハードフォークFAQ　/　FAQ on hard fork
-
+- ハードフォークFAQ　/　FAQ on hard fork  
 hardfork-faq.md
 
-- モデレータ制度　/　Moderator system
-
+- モデレータ制度　/　Moderator system  
 ModeratorSystem.md
+
+- 開発者報酬 / Sustainability fund  
+Sustainability_fund.md
