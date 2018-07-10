@@ -13,7 +13,8 @@
 # Webウォレット (Web Wallet)
 
 ## MAKEWALLET
-### https://makewallet.online/ ※2018-06-30サービス終了予定 (2018-06-30 Service scheduled to be terminated)
+### ※2018-06-30サービス終了 7月中の対応はMakeWallet公式Twitterをご確認ください。
+(2018-06-30 online wallet was closed. Please check the official Twitter for our correspondence during July.)
 
 ---
 
