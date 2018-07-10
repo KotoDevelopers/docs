@@ -42,6 +42,6 @@
 #### メンバー (member) 
 
 ### 日本語chモデレータ（japanese moderator）
-未定 To be determined
+- misskotocoin # 2354
 ### 英語chモデレータ（english moderator）｛Outside Japan moderator｝
-未定 To be determined
+- Stoxtrader 99 - VenioMining.com # 7679
