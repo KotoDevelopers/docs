@@ -4,7 +4,7 @@
 ### Core-Devモデレータ（core-dev moderator）
 - 345chan
 ### Deskモデレータ（desk moderator）
-- Gem(代理)
+- 
 ---
 ## デスクチーム (Desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。 
@@ -13,14 +13,14 @@
 - iToby
 > 英文翻訳担当(English translation)
 
-- Gem
-> イラスト担当(Illustration charge)
-
 - 345chan
 > core-devのmoderator(core-dev moderator)
 
 - monocrafty
 > 経理担当
+
+- Manpuku
+> Twitterやブログ担当(influencer)
 
 ---
 ## 開発技術チーム (core-dev)
@@ -34,6 +34,9 @@
 
 - Limit 
 > BOT開発担当。 (BOT manager)
+
+- まるるん＊
+> BOT開発・テクニカルサポート担当。 (BOT manager　TechnicalSupport)
 
 ---
 ### 以下は、運営チーム外での一般参加の担当者となります
