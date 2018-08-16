@@ -4,8 +4,8 @@
 Sustainability fund ： 3% of mining fee ＆ 10% of transaction
 - Koto発展基金 ： 開発者報酬のうち50%
 Koto Growth Fund ： 50% of Sustainability Fund
-- 報酬マルチシグの署名者 ： woさんmonocraftyさん345chan kotohodler(2of4で運用)
-Signatories of fund multi-sig: wo-san teutidos-san monocrafty-san 345chan kotohodler(Operated with 2 of 4)
+- 報酬マルチシグの署名者 ： woさんmonocraftyさん345chan (2of3で運用)
+Signatories of fund multi-sig: wo-san monocrafty-san 345chan (Operated with 2 of 3)
 
 - coution:  
 どちらもハードフォークから半減期までで終了するようプログラムされている  
