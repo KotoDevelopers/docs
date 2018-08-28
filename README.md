@@ -1,6 +1,6 @@
 
 # お知らせ / Notice  
-MakeWalletOnlineは6月末に終了しました　
+MakeWalletOnlineは6月末に終了しました  
 MakeWalletOnline ended at the end of June  
 
 ---
