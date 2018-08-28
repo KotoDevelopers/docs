@@ -1,7 +1,7 @@
 
 # お知らせ / Notice  
-MakeWalletOnlineは6月末に終了します  
-MakeWalletOnline will end at the end of June  
+MakeWalletOnlineは6月末に終了しました  
+MakeWalletOnline ended at the end of June  
 
 ---
 各ディレクトリの説明  
