@@ -10,7 +10,7 @@ As long as it helps to promote and/or increase Koto's popularity.
 ## Application method
 
 Please fill in and submit the form below.
-<https://docs.google.com/forms/d/e/1FAIpQLScCYQf1NL_ls5dlqI87QVF7YA4LQS2NCU_Tgxbf8mlwcvz5bA /viewform?usp=sf_link>
+<https://docs.google.com/forms/d/e/1FAIpQLScCYQf1NL_ls5dlqI87QVF7YA4LQS2NCU_Tgxbf8mlwcvz5bA/viewform?usp=sf_link>
 
 **Motivation**
 
