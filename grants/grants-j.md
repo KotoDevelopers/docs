@@ -8,7 +8,7 @@ Kotoが誕生して1年が経ちました．さらなるKotoの普及や発展�
 ## 応募方法
 
 以下の項目を
-https://docs.google.com/forms/d/e/1FAIpQLScCYQf1NL_ls5dlqI87QVF7YA4LQS2NCU_Tgxbf8mlwcvz5bA/viewform?usp=sf_link
+<https://docs.google.com/forms/d/e/1FAIpQLScCYQf1NL_ls5dlqI87QVF7YA4LQS2NCU_Tgxbf8mlwcvz5bA/viewform?usp=sf_link>
 に記入し提出して下さい．
 
 **動機**
