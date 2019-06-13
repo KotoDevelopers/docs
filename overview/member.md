@@ -15,8 +15,6 @@
 - monocrafty
 > 経理担当
 
-- Manpuku
-> Twitterやブログ担当(influencer)
 
 ---
 ## 開発技術チーム (core-dev)
