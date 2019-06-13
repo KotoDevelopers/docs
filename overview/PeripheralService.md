@@ -40,4 +40,4 @@
 
 ## プール稼働状況確認サイト (Pool Status Monitor)
 ### https://pools.currency.ovh/Koto
-### https://list.kotopool.work/
+
