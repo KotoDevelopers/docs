@@ -18,7 +18,7 @@
 #### メンバー (member) 
 - WO 
 > 開発及びデバッグの主要メンバー
-insightとkotocoin.info運営でもある。 ("insight" and "kotocoin.info" manager.)  
+>insightとkotocoin.info運営でもある。 ("insight" and "kotocoin.info" manager.)  
 
 - まるるん＊
 > BOT開発・テクニカルサポート担当。 (BOT manager　TechnicalSupport)
@@ -30,7 +30,8 @@ insightとkotocoin.info運営でもある。 ("insight" and "kotocoin.info" mana
 #### メンバー (member) 
 
 ### 日本語chモデレータ（japanese moderator）
-- 募集中！！　はるまきさん時間が合う時は暫く対応頂けます
-（Core moderator及びフォローできるメンバーにて暫定フォロー）
+- 募集中！！　
+>はるまきさん時間が合う時は暫く対応頂けます
+>（Core moderator及びフォローできるメンバーにて暫定フォロー）
 ### 英語chモデレータ（english moderator）｛Outside Japan moderator｝
 - Stoxtrader 99 - VenioMining.com # 7679
