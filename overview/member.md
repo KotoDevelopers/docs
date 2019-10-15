@@ -9,14 +9,14 @@
 #### メンバー (member) 
 - WO 
 > 開発及びデバッグの主要メンバー  
-insightとkotocoin.info運営でもある。 
+insightとkotocoin.info運営でもある。("insight" and "kotocoin.info" manager.)  
 
 - まるるん＊
 > BOT開発・テクニカルサポート担当。 (BOT manager　TechnicalSupport)
 
 ---
 ## デスクチーム (Desk)
-### メンバー (member)
+#### メンバー (member)
 - monocrafty
 > 経理担当
 
@@ -27,7 +27,7 @@ insightとkotocoin.info運営でもある。
 #### メンバー (member) 
 
 ### 日本語chモデレータ（japanese moderator）
-- 募集中！！　
+- 募集中！！  
 >はるまきさんも時間が合う時は暫くの期間対応頂けます。  
 （全メンバーにて暫定フォロー）
 ### 英語chモデレータ（english moderator）｛Outside Japan moderator｝
