@@ -27,7 +27,7 @@ insightとkotocoin.info運営でもある。("insight" and "kotocoin.info" manag
 #### メンバー (member) 
 
 ### 日本語chモデレータ（japanese moderator）
-- まるまる  
+- marumaru  
 - kotori  
 >はるまきさんも時間が合う時は暫くの期間対応頂けます。  
 
