@@ -2,7 +2,7 @@
 
 ## 調整役 (Moderator)
 ### Coreモデレータ（Core Moderator）
-- 345chan
+
 
 ---
 ## 開発技術チーム (Core-Dev)
